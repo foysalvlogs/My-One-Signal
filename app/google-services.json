@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "895003242062",
+    "project_id": "my-one-signal-4a40f",
+    "storage_bucket": "my-one-signal-4a40f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895003242062:android:ea7f4567312293c7d59d1f",
+        "android_client_info": {
+          "package_name": "com.foysaldev.myonesignal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "895003242062-f8gst72qfpe4u4l1ieui18mbtvqscm8n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAR1setT7iQBJa9CF-EDVXwVp1LYoYoLzA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "895003242062-f8gst72qfpe4u4l1ieui18mbtvqscm8n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
